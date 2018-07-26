@@ -1,0 +1,109 @@
+{
+    "compile": {
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "compileClasspath": {
+        "org.projectlombok:lombok": {
+            "locked": "1.16.22"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "compileOnly": {
+        "org.projectlombok:lombok": {
+            "locked": "1.16.22"
+        }
+    },
+    "default": {
+        "org.springframework.boot:spring-boot-devtools": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "runtime": {
+        "org.springframework.boot:spring-boot-devtools": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "runtimeClasspath": {
+        "org.springframework.boot:spring-boot-devtools": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "testCompile": {
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-test": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "testCompileClasspath": {
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-test": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "testRuntime": {
+        "org.springframework.boot:spring-boot-devtools": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-test": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    },
+    "testRuntimeClasspath": {
+        "org.springframework.boot:spring-boot-devtools": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-actuator": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-test": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        },
+        "org.springframework.boot:spring-boot-starter-web": {
+            "locked": "1.5.15.BUILD-SNAPSHOT"
+        }
+    }
+}
